@@ -1,2 +1,2 @@
-export SITE="pastebin.com"
+export SITE="********"
 export FLAG="Tbuddies{}"
